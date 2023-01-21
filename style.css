@@ -1,0 +1,42 @@
+.banner {
+    background: url("https://img-asset-01.visitbali.id/WeEEwjgCPNvuXAYyYFjYE7AN7WzzGp4De_WpmzuiByo/fill/650/450/no/0/aHR0cHM6Ly92aXNpdGJhbGkuaWQvaW1hZ2VzL2RhdGEvMjAxOS9KdWwvMTcvNWQyZWRhMzA5OWU4NTk1MGEuanBn.jpg")
+    no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+.crop-img{
+    object-fit: cover;
+}
+.bagian {
+    background: url("https://1.bp.blogspot.com/-jRcLqML7nqE/XZqgA2SRz5I/AAAAAAAAXzk/1zI8BVz5KfYC5NLTJPmYRC1PMZfa2nSVACLcBGAsYHQ/s1600/Old%2BMan%2527s%2BCanggu%2BNightlife.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    color: blue;
+}
+.card-title {
+    color: #000;
+}
+.lingkaran{
+    display: inline-block;
+    border-radius: 100%;
+    width: 50%;
+    margin: auto;
+    height: 100px;
+    color: #fff;
+    background-color: rgb(238, 136, 20);
+}
+.lingkaran i{
+    color: rgb(0, 0, 0);
+}
+.sarana{
+    background: url("https://www.tripsavvy.com/thmb/zR66ZxijvjFqje_KesdoLpHbI8g=/3865x2576/filters:fill(auto,1)/pura-ulun-danu-bratan-water-temple--bali-546108613-5a088d01494ec90037e485fc.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    color: #fff;
+}
+.contact{
+    background: url("https://www.traveltweek.com/wp-content/uploads/2020/12/bali1.jpg")no-repeat center center;
+    color: black;
+}
